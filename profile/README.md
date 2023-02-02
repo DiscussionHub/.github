@@ -1,6 +1,8 @@
 ## Welcome to **DiscussionHub** 👋
 
-![Welcome to DiscussionHub](https://github.com/DiscussionHub/.github/blob/main/images/discussion.jpg) 
+<a href="https://github.com/orgs/DiscussionHub/discussions">
+  <img src="https://github.com/DiscussionHub/.github/blob/main/images/discussion.jpg">
+</a>
 
 You and I and everyone else today are using GitHub to create software products. It's nice that GitHub has added discussion feature to repositories. One fine day I had an idea, why not use that feature as a place to gather people to discuss something that belongs to our programming world 😁.
 
